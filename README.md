@@ -35,25 +35,20 @@
 
 
 #### 11. git merge  - command to merge other branches with main branch
+![](image.png.png)
+
+#### 12. git pull  - to get objects from other repositories to local repositories
+![](2022-10-06-16-19-22.png)
+
+#### 13. git show
+![](2022-10-06-16-29-41.png)
+
+#### 15. git diff  -- shows the change between commits
+![](2022-10-06-17-10-01.png)
+
+#### 16. git rm  -- to remove a file from the repository
+![](2022-10-06-17-14-40.png)
 
 
-#### 12. git pull  -
 
-
-#### 13. git fetch
-
-
-
-#### 14. git show
-
-
-#### 15. git diff
-
-
-#### 16. git rm
-
-
-#### 17. git clone
-
-#### 18. git help "command"
 
