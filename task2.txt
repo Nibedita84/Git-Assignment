@@ -1,0 +1,6 @@
+## Create repository with minimal permission 
+
+### having proper open structure
+### haing proper readme
+### with 2 collaborators
+### hosting github pages using settings
