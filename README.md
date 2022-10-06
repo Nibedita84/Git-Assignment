@@ -2,15 +2,15 @@
 
 ### demonstrate 15 basic Github commands with explanation and screenshot
 #### 1. git init  - this command initializes git repositories
-image.png
+
 
 #### 2. git status - this command checks whether the repositories have been updated and if the files are  tracked or not.
-image.png
+
 
 #### 3. git add "filename" or git add . - this command gets the files to be tracked. we can either add individual files one by one or we can use "add ." to track multiple files
-image.png
 
-#### 4. git commit - this command pushes the file and changes to the statging environment and only these changes go to prod when we give the command for push
+
+#### 4. git commit -m "message" - this command pushes the file and changes to the statging environment and only these changes go to prod when we give the command for push
 
 
 
@@ -33,10 +33,10 @@ image.png
 
 
 
-#### 11. git merge
+#### 11. git merge  - command to merge other branches with main branch
 
 
-#### 12. git pull
+#### 12. git pull  -
 
 
 #### 13. git fetch
