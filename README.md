@@ -40,7 +40,7 @@
 #### 12. git pull  - to get objects from other repositories to local repositories
 ![](2022-10-06-16-19-22.png)
 
-#### 13. git show
+#### 13. git show  - shows details about git objects like trees, commits etc
 ![](2022-10-06-16-29-41.png)
 
 #### 15. git diff  -- shows the change between commits
